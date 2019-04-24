@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f72de93-3d88-4299-967f-7c58aab44103" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01c4b35a5b3bcb54a743e7fb51c74302.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/295fb3f3f2331f70b104ec4bceee7766.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8bdbcdec6547d4787ba7bf90541dee34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9dc70179ccea7650a36522888b72cd6b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a44b87347268a6f70ea93bc9c8afa636.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ae507bb684d080c3a4dd4e4d5c74a1ef.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/edffcb2f8605978975380b66ff44538a.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/f7ec6929390f0b839688fca923cd0edd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hwfwk9iy39jnww-lurbramdmwmy.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kisspng-ms-pac-man-jr-pac-man-golden-age-of-arcade-video-space-invaders-5acab8a601c067.2079108315232349820072.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -26,21 +16,25 @@
     <session id="-1757839259">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="5" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="News" value="49" />
           <entry key="Python Console" value="10" />
-          <entry key="html" value="411" />
+          <entry key="css" value="1414" />
+          <entry key="html" value="1718" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="411" />
+          <entry key="CSS" value="1414" />
+          <entry key="HTML" value="1718" />
+          <entry key="PLAIN_TEXT" value="49" />
           <entry key="Python" value="10" />
         </counts>
       </usages-collector>
@@ -51,17 +45,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/News">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="170">
+              <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ol#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ol#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#2;n#ol#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+            <state relative-caret-position="89">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -85,15 +75,16 @@
       <list>
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/News" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="width" value="1608" />
-    <option name="height" value="1092" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -143,6 +134,14 @@
       <workItem from="1553130804093" duration="53000" />
       <workItem from="1553131094409" duration="5000" />
     </task>
+    <task id="LOCAL-00001" summary="add content and upload new images">
+      <created>1554711537660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554711537660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -150,7 +149,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.37080538" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -162,8 +160,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49956024" visible="true" weight="0.6013289" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49956024" weight="0.49335548" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50043976" side_tool="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -213,13 +211,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/style.css" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/News">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -229,8 +220,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="35" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
+        <state relative-caret-position="89">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ol#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ol#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#2;n#ol#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

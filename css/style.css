@@ -1,3 +1,34 @@
 body {
     background-color: antiquewhite;
+    }
+.green-item {
+    color: green
 }
+.arr {
+    color: blue
+}
+p.background_color {
+    background-color: white
+}
+div>p{
+    font-size: 25px
+}
+li:active {
+background-color: red
+}
+li:hover{
+color: yellow
+}
+  /*Основные селекторы
+    "p,h1,li..." - по тегам,
+    "." - по классам,
+    "#" - по id,
+    "div>p" - селекторы по окружению,
+    "p + span" - прямое родство, теги которые расположены рядом друг с другом
+    "p ~ span" - непрямое родство, любой тег span который идет после p
+    "[attribute]" - по атрибуту тега
+    Псевдо селекторы
+    "li:first-child, nth-child(1,2,3...), last-child ..." - первый потомок, любой потомок с указанным порядковым номером, последний потомок...
+    "li:active" - элемент на котором выполняеться клик мыши
+    "li:hover" - элемент над которым удерживаеться курсор мыши
+  */
